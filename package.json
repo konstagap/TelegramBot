@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "node-iplocate": "^1.0.1",
     "node-telegram-bot-api": "^0.40.0"
